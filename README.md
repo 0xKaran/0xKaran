@@ -1,7 +1,8 @@
 ### Hi there, I'm KARAN CHAUDHARY - aka [3X-M1L174RY](https://www.linkedin.com/in/karan-c-a60531170/) 👋
 
-[![Facebook](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/kingkaran977)](https://www.facebook.com/kingkaran977)
+[![Facebook](https://img.shields.io/website?label=facebook&logo=facebook&color=1877f2&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/kingkaran977)](https://www.facebook.com/kingkaran977)
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xkaran?color=1DA1F2&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F0xkaran)](https://twitter.com/0xkaran)
+[![LinkedIn](https://img.shields.io/website?color=1DA1F2&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/karan-c-a60531170/)](https://www.linkedin.com/in/karan-c-a60531170/)
 
 ## I'm a Husband, Father, Developer, and Teacher!
 

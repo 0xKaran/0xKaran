@@ -46,9 +46,5 @@
 ---
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<img align="left" alt="3X-M1L174RY's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=3X-M1L174RY&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="3X-M1L174RY's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=3X-M1L174RY&show_icons=true&hide_border=true" />
-
-</details>

@@ -4,24 +4,17 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xkaran?color=1DA1F2&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F0xkaran)](https://twitter.com/0xkaran)
 [![LinkedIn](https://img.shields.io/website?color=1DA1F2&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/karan-c-a60531170/)](https://www.linkedin.com/in/karan-c-a60531170/)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a teen Cyber Security Enthusiast!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 👯 I’m looking to collaborate with other researchers and bug hunters
+- 🥅 2020 Goals: Learn more about information security & social engineering
+- ⚡ Fun fact: I love to play violin & listen to music
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="3X-M1L174RY | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.facebook.com/kingkaran977/)
+[<img align="left" alt="3X-M1L174RY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="3X-M1L174RY | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 

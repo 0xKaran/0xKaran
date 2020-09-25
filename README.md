@@ -11,6 +11,11 @@
 - 🥅 2020 Goals: Learn more about information security & social engineering
 - ⚡ Fun fact: I love to play violin & listen to music
 
+## What you'll get from my profile:
+- If you are interested in cyber security things, You'll find amazing recepies here!
+- Hacking tools to turn your hunting on automatic mode.
+- Collection of Web-shells, Guides, Viruses etc.
+
 ### Connect with me:
 [<img align="left" alt="3X-M1L174RY | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/0xkaran)
 [<img align="left" alt="3X-M1L174RY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/karan-c-a60531170/)

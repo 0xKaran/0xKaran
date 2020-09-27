@@ -1,8 +1,10 @@
-### Hi there, I'm KARAN CHAUDHARY - aka [3X-M1L174RY](https://www.linkedin.com/in/karan-c-a60531170/) 👋
+### Hi there, I'm KARAN CHAUDHARY - aka [3X-M1L174RY](https://www.linkedin.com/in/karan-c-a60531170/) 👨‍💻
 
 [![Facebook](https://img.shields.io/website?label=facebook&logo=facebook&color=1877f2&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/kingkaran977)](https://www.facebook.com/kingkaran977)
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xkaran?color=1DA1F2&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F0xkaran)](https://twitter.com/0xkaran)
 [![LinkedIn](https://img.shields.io/website?color=1DA1F2&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/karan-c-a60531170/)](https://www.linkedin.com/in/karan-c-a60531170/)
+
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
 ## I'm a teen Cyber Security Enthusiast!
 
@@ -16,7 +18,7 @@
 - Hacking tools to turn your hunting on automatic mode.
 - Collection of Web-shells, Guides, Viruses etc.
 
-### Connect with me:
+### 🧐 Connect with me:
 [<img align="left" alt="3X-M1L174RY | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/0xkaran)
 [<img align="left" alt="3X-M1L174RY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/karan-c-a60531170/)
 [<img align="left" alt="3X-M1L174RY | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kingkaran977/)

@@ -1,8 +1,9 @@
 ### Hi there, I'm KARAN CHAUDHARY - aka [0xKaran](https://twitter.com/0xKaran) 👨‍💻
 
-[![Facebook](https://img.shields.io/website?label=facebook&logo=facebook&color=1877f2&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/kingkaran977)](https://www.facebook.com/0xkaran)
-[![Twitter Follow](https://img.shields.io/twitter/follow/0xkaran?color=1DA1F2&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F0xkaran)](https://twitter.com/0xkaran)
 [![LinkedIn](https://img.shields.io/website?color=1DA1F2&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/karan-c-a60531170/)](https://www.linkedin.com/in/0xkaran)
+[![Twitter](https://img.shields.io/twitter/follow/0xkaran?color=1DA1F2&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F0xkaran)](https://twitter.com/0xkaran)
+[![Facebook](https://img.shields.io/website?label=facebook&logo=facebook&color=1877f2&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/kingkaran977)](https://www.facebook.com/0xkaran)
+
 
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 

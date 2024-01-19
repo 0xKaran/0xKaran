@@ -1,25 +1,25 @@
 ### Hi there, I'm KARAN CHAUDHARY - aka [0xKaran](https://twitter.com/0xKaran) 👨‍💻
 
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
+
+## I'm a Cyber Security Enthusiast!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 Seeking a company that prioritizes collaboration and knowledge sharing. If you're one of them HIRE ME.
+- 🥅 2024 Goals: AWS Solutions Architect ⟶ AWS Security (Speciality)
+
+## What you'll get from my profile ⚡:
+- Security automation tools
+- Collection of Web-shells, Guides, Viruses etc.
+- Other repositories I find interesting on GitHub
+
+### 🧐 Connect with me:
+
 [![LinkedIn](https://img.shields.io/website?color=1DA1F2&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/karan-c-a60531170/)](https://www.linkedin.com/in/0xkaran)
 [![Twitter](https://img.shields.io/twitter/follow/0xkaran?color=1DA1F2&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F0xkaran)](https://twitter.com/0xkaran)
 [![Facebook](https://img.shields.io/website?label=facebook&logo=facebook&color=1877f2&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/kingkaran977)](https://www.facebook.com/0xkaran)
 
 
-![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
-
-## I'm a teen Cyber Security Enthusiast!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other researchers and bug hunters
-- 🥅 2020 Goals: Learn more about information security & social engineering
-- ⚡ Fun fact: I love to play violin & listen to music
-
-## What you'll get from my profile:
-- If you are interested in cyber security things, You'll find amazing recepies here!
-- Hacking tools to turn your hunting on automatic mode.
-- Collection of Web-shells, Guides, Viruses etc.
-
-### 🧐 Connect with me:
 [<img align="left" alt="3X-M1L174RY | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/0xkaran)
 [<img align="left" alt="3X-M1L174RY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/karan-c-a60531170/)
 [<img align="left" alt="3X-M1L174RY | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kingkaran977/)

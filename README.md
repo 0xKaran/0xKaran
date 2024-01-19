@@ -19,7 +19,7 @@
 [![Facebook](https://img.shields.io/website?label=facebook&logo=facebook&color=1877f2&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/kingkaran977)](https://www.facebook.com/0xkaran)
 
 ### Languages and Tools:
-<img <span class="hover-text">HTML5</span> align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
@@ -40,16 +40,9 @@
 
 <br />
 <br />
-<div class="image-container">
-  <img align="left" width="26px"
- 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
- 
-alt="Visual Studio Code">
-  <span class="hover-text">HTML5</span>
-</div>
+
 ---
 <br />
 
-<img align="left" alt="3X-M1L174RY's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=3X-M1L174RY&show_icons=true&hide_border=true" />
+<img align="left" alt="3X-M1L174RY's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=0xKaran&show_icons=true&hide_border=true" />
 
